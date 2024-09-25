@@ -41,7 +41,9 @@ I am always learning and exploring new technologies to enhance my skill set and 
 
 **Get in Touch**
 Email: shahzeb.naseer2@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/shahzeb-naseer-82255b185/
+
 Feel free to reach out to me via email or connect with me on LinkedIn or Twitter. I'm always excited to discuss new ideas, collaborate on projects, or simply have a chat about technology.
 
 Thank you for visiting my GitHub profile!
