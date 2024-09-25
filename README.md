@@ -4,18 +4,49 @@
 
 🤝 Welcome to my GitHub profile. 
 
-✍ Here's a little about me:-
-
-👀 Interest: I'm passionate about React.js and Blockchain.
-
 🌱 Current Work: I'm a React and Web 3.0 developer, diving deep into the world of decentralized applications (dApps).
 
 ⚒️ Collaboration: I'm open to collaborating on React.js and Web 3.0 projects, utilizing modern web technologies to build cutting-edge solutions.
 
-📫 Contact: You can reach me at shahzeb.naseer2@gmail.com. Feel free to connect for project discussions or collaboration opportunities.
-
 **About Me:**
 I'm a dedicated developer with a strong focus on front-end technologies, especially React.js and Web 3.0. I enjoy creating user-friendly, interactive interfaces that deliver seamless experiences. I’m also deeply fascinated by blockchain technology and its potential to transform various industries.
+
+### Experience
+I have over 5 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of crafting _reusable email components_, _building mobile-responsive campaigns_, and _designing impactful digital ads_ for content creation. My contributions as an Open Source Contributor involve ensuring accessibility and providing valuable resources to support the initiatives of veterans transitioning into tech careers. Let's connect and explore how I can bring my unique blend of skills to your team.
+
+
+<br><br>
+
+## 🛠️ Technologies & Skills
+My toolkit includes, but is not limited to:
+
+ #### Languages 
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+
+</div>
+
+### Frameworks/Libraries: 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TYPESCRIPT" alt="Typescript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="NextJS" width="50" height="50"/>&nbsp;
+</div>
+
+### Tools & Platforms: 
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+ <img src="https://res.cloudinary.com/dujkjy2e2/image/upload/c_scale,w_394,x_697,y_516/v1708701249/klaviyo-new-20228862_pf9p74.jpg" title="Klaviyo" alt="Klaviyo" width="50" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
+</div>
+
+
+<br><br><br>
 
 **Projects:**
 Dao:- Tomi DAO is a decentralized autonomous organization focused on building decentralized infrastructure for Ethereum. It governs Tomi products and function to be perfomred, a blockchain optimized for secure and transparent governance. Through its DAO structure, Tomi allows community members to propose and vote on initiatives, enabling decentralized decision-making and development in the DeFi ecosystem.
@@ -30,21 +61,19 @@ Staking:- Tomi Staking is a feature within the Tomi ecosystem that allows users 
 
 launchpad:- platform designed to help new blockchain projects raise funds and launch their tokens to the public. It provides a space for projects to conduct Initial Coin Offerings (ICOs), Initial DEX Offerings (IDOs), or similar token sales, giving investors early access to new cryptocurrencies before they are widely available. Launchpads also offer services like marketing, technical support, and exposure to a large community, which can help a project gain traction in its early stages. Popular launchpads include Binance Launchpad, Polkastarter, and TrustSwap, among others.
 
-**Skills**:
-Programming & Markup: JavaScript, HTML, CSS, SCSS, TypeScript
-Front-end Frameworks/Libraries: React.js, Next.js, Bootstrap, Material UI
-Web3 Libraries: Web3.js, WAGMI, Rainbow Toolkit, ethers.js
-Version Control: Git
-UI/UX Design: Figma
-Testing: React Testing Library
-I am always learning and exploring new technologies to enhance my skill set and keep up with the latest industry trends.
 
-**Get in Touch**
+### 🤝 Let's Connect
+I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Whether you're in need of a Frontend Developer to bring your vision to life or seeking to contribute to your open-source project, feel free to reach out to me.
 
-Email: shahzeb.naseer2@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/shahzeb-naseer-82255b185/
-
-Feel free to reach out to me via email or connect with me on LinkedIn or Email. I'm always excited to discuss new ideas, collaborate on projects, or simply have a chat about technology.
-
-Thank you for visiting my GitHub profile!
+<div id="badges" align="center">
+  <br><br>
+  <a href="https://www.linkedin.com/in/shahzeb-naseer-82255b185/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/shahzeb.naseer2">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
+  </a>&nbsp;
+  <a href="mailto:shahzeb.naseer2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
+  </a>
+</div>
