@@ -1,11 +1,16 @@
 🙋 Hi, I'm Shahzeb !
 👨‍💼 Senior Blockchain Web3 React js Dev
+
 Welcome to my GitHub profile. Here's a little about me:
 
 👋 Hi, I’m @SardarShahzeb.
+
 👀 Interest: I'm passionate about React.js and Blockchain.
+
 🌱 Current Work: I'm a React and Web 3.0 developer, diving deep into the world of decentralized applications (dApps).
+
 ⚒️ Collaboration: I'm open to collaborating on React.js and Web 3.0 projects, utilizing modern web technologies to build cutting-edge solutions.
+
 📫 Contact: You can reach me at shahzeb.naseer2@gmail.com. Feel free to connect for project discussions or collaboration opportunities.
 
 **About Me:**
