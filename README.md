@@ -1,9 +1,10 @@
-🙋 Hi, I'm Shahzeb !
-👨‍💼 Senior Blockchain Web3 React js Dev
+🙋 Hi, I’m @SardarShahzeb !
 
-Welcome to my GitHub profile. Here's a little about me:
+👨‍💼 Senior Blockchain Web3 Reactjs Dev
 
-👋 Hi, I’m @SardarShahzeb.
+🤝 Welcome to my GitHub profile. 
+
+✍ Here's a little about me:-
 
 👀 Interest: I'm passionate about React.js and Blockchain.
 
@@ -17,17 +18,17 @@ Welcome to my GitHub profile. Here's a little about me:
 I'm a dedicated developer with a strong focus on front-end technologies, especially React.js and Web 3.0. I enjoy creating user-friendly, interactive interfaces that deliver seamless experiences. I’m also deeply fascinated by blockchain technology and its potential to transform various industries.
 
 **Projects:**
-Dao - Tomi DAO is a decentralized autonomous organization focused on building decentralized infrastructure for Ethereum. It governs Tomi products and function to be perfomred, a blockchain optimized for secure and transparent governance. Through its DAO structure, Tomi allows community members to propose and vote on initiatives, enabling decentralized decision-making and development in the DeFi ecosystem.
+Dao:- Tomi DAO is a decentralized autonomous organization focused on building decentralized infrastructure for Ethereum. It governs Tomi products and function to be perfomred, a blockchain optimized for secure and transparent governance. Through its DAO structure, Tomi allows community members to propose and vote on initiatives, enabling decentralized decision-making and development in the DeFi ecosystem.
 
-tDNS - tomi Domain Name System: tDNS enhances security and accessibility for blockchain-based domain naming, similar to the Ethereum Name Service (ENS). It leverages the Ethereum blockchain to provide tamper-proof records and enables easy creation of ".tomi" and ".com" domains, offering a secure, user-friendly naming solution for the Ethereum ecosystem.
+tDNS:- tomi Domain Name System: tDNS enhances security and accessibility for blockchain-based domain naming, similar to the Ethereum Name Service (ENS). It leverages the Ethereum blockchain to provide tamper-proof records and enables easy creation of ".tomi" and ".com" domains, offering a secure, user-friendly naming solution for the Ethereum ecosystem.
 
-DOP - Data Ownership Protocol: DOP uses zero-knowledge roll-ups to move computation and state storage off-chain, boosting Ethereum Mainnet’s throughput while ensuring complete data ownership. With zero-knowledge proofs, DOP reduces transaction costs and allows secure interaction with Layer 1 apps.
+DOP:- Data Ownership Protocol: DOP uses zero-knowledge roll-ups to move computation and state storage off-chain, boosting Ethereum Mainnet’s throughput while ensuring complete data ownership. With zero-knowledge proofs, DOP reduces transaction costs and allows secure interaction with Layer 1 apps.
 
-Wizard Gallery NFT Marketplace: A specialized NFT marketplace for buying, selling, and owning NFTs within the Core ecosystem.
+Wizard Gallery NFT Marketplace:- A specialized NFT marketplace for buying, selling, and owning NFTs within the Core ecosystem.
 
-Staking - Tomi Staking is a feature within the Tomi ecosystem that allows users to stake their $TOMI tokens in exchange for rewards and governance participation. By staking $TOMI, users contribute to the security and stability of the Tomi decentralized infrastructure, such as the tomiDAO and other blockchain-based services like the tDNS (tomi Domain Name System). Stakers earn rewards while also gaining voting rights in the tomiDAO, enabling them to influence the future direction of the projec
+Staking:- Tomi Staking is a feature within the Tomi ecosystem that allows users to stake their $TOMI tokens in exchange for rewards and governance participation. By staking $TOMI, users contribute to the security and stability of the Tomi decentralized infrastructure, such as the tomiDAO and other blockchain-based services like the tDNS (tomi Domain Name System). Stakers earn rewards while also gaining voting rights in the tomiDAO, enabling them to influence the future direction of the projec
 
-launchpad - platform designed to help new blockchain projects raise funds and launch their tokens to the public. It provides a space for projects to conduct Initial Coin Offerings (ICOs), Initial DEX Offerings (IDOs), or similar token sales, giving investors early access to new cryptocurrencies before they are widely available. Launchpads also offer services like marketing, technical support, and exposure to a large community, which can help a project gain traction in its early stages. Popular launchpads include Binance Launchpad, Polkastarter, and TrustSwap, among others.
+launchpad:- platform designed to help new blockchain projects raise funds and launch their tokens to the public. It provides a space for projects to conduct Initial Coin Offerings (ICOs), Initial DEX Offerings (IDOs), or similar token sales, giving investors early access to new cryptocurrencies before they are widely available. Launchpads also offer services like marketing, technical support, and exposure to a large community, which can help a project gain traction in its early stages. Popular launchpads include Binance Launchpad, Polkastarter, and TrustSwap, among others.
 
 **Skills**:
 Programming & Markup: JavaScript, HTML, CSS, SCSS, TypeScript
