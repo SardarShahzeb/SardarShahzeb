@@ -40,6 +40,7 @@ Testing: React Testing Library
 I am always learning and exploring new technologies to enhance my skill set and keep up with the latest industry trends.
 
 **Get in Touch**
+
 Email: shahzeb.naseer2@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/shahzeb-naseer-82255b185/
