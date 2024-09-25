@@ -4,15 +4,12 @@
 
 🤝 Welcome to my GitHub profile. 
 
-🌱 Current Work: I'm a React and Web 3.0 developer, diving deep into the world of decentralized applications (dApps).
-
-⚒️ Collaboration: I'm open to collaborating on React.js and Web 3.0 projects, utilizing modern web technologies to build cutting-edge solutions.
 
 **About Me:**
 I'm a dedicated developer with a strong focus on front-end technologies, especially React.js and Web 3.0. I enjoy creating user-friendly, interactive interfaces that deliver seamless experiences. I’m also deeply fascinated by blockchain technology and its potential to transform various industries.
 
 ### Experience
-I have over 5 years of expertise in seamlessly blending design, development, and captivating imagery. I've mastered the art of crafting _reusable email components_, _building mobile-responsive campaigns_, and _designing impactful digital ads_ for content creation. My contributions as an Open Source Contributor involve ensuring accessibility and providing valuable resources to support the initiatives of veterans transitioning into tech careers. Let's connect and explore how I can bring my unique blend of skills to your team.
+A highly skilled Web3 and React.js developer with over 4 years of experience in building decentralized applications (dApps) and other web projects. Proficient in integrating blockchain technologies with modern web frameworks, with a strong focus on creating user-friendly, interactive, and secure dApps. Expertise includes smart contract integration, Web3 libraries, and front-end development using React.js, ensuring seamless user experiences across decentralized platforms.
 
 ## 🛠️ Projects & Work
 Dao:- Tomi DAO is a decentralized autonomous organization focused on building decentralized infrastructure for Ethereum. It governs Tomi products and function to be perfomred, a blockchain optimized for secure and transparent governance. 
