@@ -55,7 +55,6 @@ My toolkit includes, but is not limited to:
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
 </div>
 
-
 <br><br><br>
 
 
